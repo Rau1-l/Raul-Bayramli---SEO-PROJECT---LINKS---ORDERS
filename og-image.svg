@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151324"/><stop offset=".55" stop-color="#0b0c13"/><stop offset="1" stop-color="#08090d"/></linearGradient>
+    <linearGradient id="accent" x1="180" y1="180" x2="1000" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#f4f4fa"/><stop offset=".48" stop-color="#b9aaff"/><stop offset="1" stop-color="#8dffe1"/></linearGradient>
+    <radialGradient id="orb"><stop stop-color="#9d88ff" stop-opacity=".22"/><stop offset="1" stop-color="#9d88ff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><circle cx="870" cy="300" r="400" fill="url(#orb)"/>
+  <rect x="80" y="75" width="54" height="54" rx="16" fill="#10111a" stroke="#9effd7" stroke-opacity=".6"/>
+  <text x="107" y="110" fill="#9effd7" font-family="monospace" font-size="18" text-anchor="middle">RB</text>
+  <text x="155" y="109" fill="#e8e7f2" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">RAUL BAYRAMLI</text>
+  <rect x="84" y="236" width="312" height="38" rx="19" fill="#9effd7" fill-opacity=".06" stroke="#9effd7" stroke-opacity=".3"/>
+  <circle cx="105" cy="255" r="4" fill="#9effd7"/><text x="121" y="260" fill="#9effd7" font-family="monospace" font-size="13" letter-spacing="2">BAKU, AZERBAIJAN · DIGITAL CREATIVE</text>
+  <text x="80" y="365" fill="url(#accent)" font-family="Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-5">Raul Bayramli</text>
+  <text x="84" y="418" fill="#aaaab9" font-family="Arial,sans-serif" font-size="23">Web design · SEO · Instagram profile design</text>
+  <text x="84" y="557" fill="#737586" font-family="monospace" font-size="13" letter-spacing="3">OFFICIAL LINKS &amp; SERVICES</text>
+  <circle cx="925" cy="321" r="158" fill="none" stroke="#ab9aff" stroke-opacity=".15"/>
+  <circle cx="925" cy="321" r="126" fill="none" stroke="#9effd7" stroke-opacity=".25" stroke-dasharray="2 8"/>
+  <text x="925" y="354" fill="url(#accent)" font-family="Arial,sans-serif" font-size="98" font-weight="700" letter-spacing="-8" text-anchor="middle">RB</text>
+</svg>
